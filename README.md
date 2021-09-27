@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello Beautiful, [Anshu Pandey](https://kryptonanshu.github.io/PortFolioo/) this side 🙋‍♂️
+## Hey Beautiful, [Anshu Pandey](https://kryptonanshu.github.io/PortFolioo/) this side 🙋‍♂️
 <h3 align="center">EXPLORING | MERN Stack | Open Source Enthusiast</h3>
 
 
