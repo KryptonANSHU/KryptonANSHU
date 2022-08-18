@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 🤨 Now dont ask about College and all those stuff..
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anshu-pandey-a67829129/)
 - ⚡ Fun fact: I love Travelling and Videography
+- 📜 Resume : [Click Here](https://drive.google.com/file/d/1Zr12whSTCNdqIj92LBw0tZZcQ2jgLT0N/view?usp=sharing)
 
 
 
