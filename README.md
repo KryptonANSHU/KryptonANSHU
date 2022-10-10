@@ -31,5 +31,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KryptonANSHU&show_icons=true&locale=en&layout=compact" alt="aryanpandey1507" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KryptonANSHU&" alt="aryanpandey1507" /></p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KryptonANSHU&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KryptonANSHU&" alt="aryanpandey1507" /></span>
+<span><img height="180em" src="https://github-readme-stats.vercel.app/api?username=KryptonANSHU&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></span>
