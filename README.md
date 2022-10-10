@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact : **I am a reallly really bad Developer**
 
+-  📜 Resume : [Click Here](https://drive.google.com/file/d/1AhF3HOMqF_SeKh5kY9JkA3E-y3Z6hWN_/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/its_PandeyJi20" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fetch_aryan_twt" height="30" width="40" /></a>
@@ -30,3 +32,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KryptonANSHU&show_icons=true&locale=en&layout=compact" alt="aryanpandey1507" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KryptonANSHU&" alt="aryanpandey1507" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KryptonANSHU&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-9211" /> </p>
